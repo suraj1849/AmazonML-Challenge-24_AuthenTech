@@ -1,10 +1,10 @@
-# Team: MLHacks 
+# Team: AuthenTech
+
 # Team Members:
-1. Soham Dutta
-2. Sonajhoori Mitra
-3. Dhrubo Ghosh
-4. Satavisa Das
-# Institute: Heritage Institute Of Technology,Kolkata
+1. Vinaya Wani
+2. Akshata Kamerkar
+3. Sura Patil
+4. Tanishk Patil
 
 # ML Challenge Problem Statement
 
